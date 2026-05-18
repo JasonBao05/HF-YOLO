@@ -15,6 +15,10 @@ Frequency-Aware Linear Attention for Small Object Detection in UAV Remote Sensin
 
 Copy `CSP_FALA.py` and `HAT.py` to `ultralytics/nn/Extramodules/
 
+## the RSI Dataset
+
+The **RSI Dataset** used in this work can be downloaded from the [Releases page](https://github.com/JasonBao05/HF-YOLO/releases/latest). The dataset is split into 3 parts (`rsi_dataset.zip.001-003`); download all parts and extract `rsi_dataset.zip.001` with 7-Zip to obtain the complete dataset.
+
 ## License
 
 MIT
